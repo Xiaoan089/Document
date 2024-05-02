@@ -38,3 +38,13 @@ var ec = {
     "pVO": "false"
 };
 ```
+
+
+- 解析和加密后的结果
+```
+// 元数据为 cookie 中的 dtCookie字段
+dtCookie=v_4_srv_7_sn_64F624C3A6AF9B2A84F6672BAC6EDCC9_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1
+
+// 解析后重新编码后的结果
+dtPC=7$433310689_862h-vEWMCNAACKINKDOURBOHCAAPUQRCPFRVW-0e0
+```
